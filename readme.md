@@ -44,7 +44,12 @@ The performance differences between vanilla DQN and Double DQN (DDQN) are best i
 ![Comparison Chart](graph/Gridworld.png)
 
 *   **Cartpole**: Vanilla DQN showed unstable learning with larger networks due to overfitting; DDQN converged earlier at episode 1700 compared to 3000 for DQN.
+
+![Comparison Chart](graph/Cartpole.png)
+
 *   **Mountain Car**: DQN converged earlier (episode 6000) than DDQN (episode 9000), likely due to network sync instability in the DDQN implementation for this specific environment.
+
+![Comparison Chart](graph/MountainCar.png)
 
 ### Key Findings
 *   **Discrete vs. Continuous**: Discrete state environments (Gridworld) exhibited more stable learning than continuous state environments.
