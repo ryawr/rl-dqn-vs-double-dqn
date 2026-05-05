@@ -42,7 +42,7 @@ The performance differences between vanilla DQN and Double DQN (DDQN) are best i
 *   **Gridworld**: Double DQN converged significantly faster (approx. episode 4000) compared to vanilla DQN (approx. episode 8000).
 
 <!-- ![Comparison Chart](graph/Gridworld.png) -->
-*   <img src="ggraph/Gridworld.png" alt="Comparison Chart" width="600">
+*   <img src="graph/Gridworld.png" alt="Comparison Chart" width="600">
 
 *   **Cartpole**: Vanilla DQN showed unstable learning with larger networks due to overfitting; DDQN converged earlier at episode 1700 compared to 3000 for DQN.
 
