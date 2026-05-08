@@ -1,4 +1,4 @@
-# Implementation and Comparitive analysis of DQN and Double-DQN to solve OpenAI Gym CartPole and MountainCar environments
+# Implementation and Comparative analysis of DQN and Double-DQN to solve OpenAI Gym CartPole and MountainCar environments
 
 This repository contains a comprehensive analysis and implementation of **Deep Q-Network (DQN)** and **Double DQN (DDQN)** algorithms applied to various environments: Gridworld, Cartpole, and Mountain Car. The project evaluates the effectiveness of these algorithms in both discrete and continuous state spaces.
 
